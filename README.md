@@ -7,3 +7,6 @@ When added to a plush, battery powered, and when given a louder speaker, it's a 
 
 Make any modifications that improve the code or experience? Let me know! Cheers! Prof. G.
 Find Maker, CircuitPython, and Video Tutorials at: https://YouTube.com/profgallaugher
+
+https://user-images.githubusercontent.com/20801687/166934317-81539443-b670-4728-a4cb-0ccf5d215b07.mov
+
